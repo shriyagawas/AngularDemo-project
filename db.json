@@ -1,3 +1,13 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Aditya",
+      "lastName": "parab",
+      "department": "React",
+      "email": "aditya@gmail.com",
+      "mobile": "1234567896",
+      "salary": "250000"
+    }
+  ]
 }
