@@ -1,0 +1,36 @@
+.card
+{
+    align-content: center;
+    margin: auto;
+    display:ruby-base-container;
+    background-color:pink;
+    }
+
+    input
+{
+    border: none;
+    background-color: rgb(210, 194, 221);
+    border-bottom: solid black;
+    size: 3px;
+    margin-left: 10px;
+    width: 85%;
+}
+label
+{
+    color:grey;
+}
+
+.form-group
+{
+    margin-top: 30px;
+}
+
+form{
+    padding: 12px;
+}
+
+#submitButton
+{
+    margin: 25px;
+    width: 40%;
+}
